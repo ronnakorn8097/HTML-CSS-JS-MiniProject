@@ -23,5 +23,6 @@ input.addEventListener("keyup",()=>{
        }
     }
     countEl.innerHTML = vowelCount    
+    
 
 })
